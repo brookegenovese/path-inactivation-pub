@@ -11,7 +11,8 @@
 **Corresponding authors:** 
 Brian H. Bird (bhbird@ucdavis.edu)
 
-**PRIDE Repository:** TBA
+**PRIDE Repository dataset identifier:** PXD062367
+
 
 
 
