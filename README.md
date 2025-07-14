@@ -13,8 +13,11 @@ Brian H. Bird (bhbird@ucdavis.edu)
 
 **PRIDE Repository dataset identifier:** PXD062367
 
+<a href="https://doi.org/10.5281/zenodo.15876220"><img src="https://zenodo.org/badge/899262298.svg" alt="DOI"></a>
+
 <div align="center">
   <img src="figure_1" alt="Example Image" width="900">
 </div>
+
 
 
